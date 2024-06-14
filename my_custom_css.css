@@ -1,0 +1,6 @@
+### .thumbnail applies CSS code styling to all classes of thumbnail
+### We can target classes with dots(.) and id's with (#). 
+
+.thumbnail{
+  padding: 25px;
+}
